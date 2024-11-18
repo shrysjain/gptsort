@@ -1,0 +1,25 @@
+{
+  "name": "gptsort",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "shrysjain",
+  "license": "MIT",
+  "description": "A true O(1) sorting algorithm!",
+  "dependencies": {
+    "openai": "^4.72.0"
+  },
+  "type": "module",
+  "homepage": "https://github.com/shrysjain/gptsort#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrysjain/gptsort.git"
+  },
+  "keywords": [
+    "gpt",
+    "openai",
+    "sorting",
+    "algorithm",
+    "O(1)",
+    "efficiency"
+  ]
+}
